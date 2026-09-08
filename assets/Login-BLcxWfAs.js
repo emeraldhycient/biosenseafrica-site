@@ -1,0 +1,1 @@
+import{j as o}from"./index-C-K5GxRL.js";import{A as i}from"./AuthLayout-DvSc18q3.js";import{A as t}from"./AuthForm-Cc_-Un-_.js";import"./input-Cd5QVdCK.js";function s(){return o.jsx(i,{title:"Sign in",description:"Sign in to your BioSense Africa account.",path:"/login",children:o.jsx(t,{mode:"login"})})}export{s as default};

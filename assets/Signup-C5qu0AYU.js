@@ -1,0 +1,1 @@
+import{j as t}from"./index-C-K5GxRL.js";import{A as o}from"./AuthLayout-DvSc18q3.js";import{A as r}from"./AuthForm-Cc_-Un-_.js";import"./input-Cd5QVdCK.js";function u(){return t.jsx(o,{title:"Create an account",description:"Create your BioSense Africa account.",path:"/signup",children:t.jsx(r,{mode:"signup"})})}export{u as default};
