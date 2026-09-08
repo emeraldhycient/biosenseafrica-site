@@ -1,0 +1,12 @@
+# BioSense Africa
+
+> Connected livestock monitoring designed for African farmers.
+
+BioSense brings animal temperature and activity signals together with farmer alerts. Contact the team to discuss local rollout, pilot opportunities, and agricultural partnerships.
+
+## Public pages
+
+- [Home](https://biosenseafrica.com/): Platform overview and mission.
+- [Product](https://biosenseafrica.com/product): Biosensor tag, connectivity, and proposed specifications.
+- [Contact](https://biosenseafrica.com/contact): Waitlist, pilot, and partner enquiries.
+- [Field notes](https://biosenseafrica.com/blog): Published updates and stories.
